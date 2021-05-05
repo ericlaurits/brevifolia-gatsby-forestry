@@ -1,6 +1,6 @@
 {
   "description": "<p>Eric is a HERE IS MY BIO</p>",
-  "cta": "<p>Join my newsletter here</p>",
+  "cta": "<p>Join my newsletter here</p><pre><code><code>&lt;iframe src=\"<a href=\"https://ericlaurits.substack.com/embed\" title=\"https://ericlaurits.substack.com/embed\">https://ericlaurits.substack.com/embed</a>\" width=\"480\" height=\"320\" style=\"border:1px solid #EEE; background:white;\" frameborder=\"0\" scrolling=\"no\"&gt;&lt;/iframe&gt;</code></code></pre>",
   "contact": {
     "email": "eric.laurits@gmail.com",
     "twitter_handle": "ericlaurits",
